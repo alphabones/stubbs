@@ -1,6 +1,6 @@
 baseURL = "https://alphabones.github.io/stubbs"
 languageCode = "en-us"
-title = "False Summit"
+title = "True Summit"
 theme = "dimension"
 
 publishDir = "docs"

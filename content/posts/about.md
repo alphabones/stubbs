@@ -6,9 +6,9 @@ draft: false
 
 Every technology innovation studio in outdoor retail companies faces the same problem whether they know it or not: They’re trying to create startups without startup experience on the execution side.
 
-We’re False Summit
+We’re True Summit
 
-False Summit brings startup methodologies and mentality to technology innovation studios of the world’s best outdoor retail companies through consulting and development. We bring entrepreneurial blood, innovative minds, and rapid, efficient validation and go-to-market development strategies to create a true tech startup incubator for each of our clients.
+True Summit brings startup methodologies and mentality to technology innovation studios of the world’s best outdoor retail companies through consulting and development. We bring entrepreneurial blood, innovative minds, and rapid, efficient validation and go-to-market development strategies to create a true tech startup incubator for each of our clients.
 
 As a retail company, you’re used to hiring agencies for design and development work. That works for websites, and certain applications, but the structure of agencies, their processes and mindset does not produce innovative startups that are agile, yet efficient, fast, and scrappy. As a corporate accelerator, spinning off a handful, to dozens of startups each year, you need to be led and driven by entrepreneurial minds, both in planning and roadmapping, but also in development. 
 
