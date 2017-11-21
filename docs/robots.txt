@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://company-name.org//sitemap.xml
+Sitemap: https://alphabones.github.io/stubbs/sitemap.xml

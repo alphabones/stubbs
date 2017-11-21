@@ -1,4 +1,4 @@
-baseURL = "http://company-name.org/"
+baseURL = "https://alphabones.github.io/stubbs"
 languageCode = "en-us"
 title = "False Summit"
 theme = "dimension"
