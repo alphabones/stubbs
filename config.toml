@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "False Summit"
 theme = "dimension"
 
+publishDir = "docs"
+
 defaultContentLanguage = "en"
 enableRobotsTXT = true
 disableKinds=["RSS"]
