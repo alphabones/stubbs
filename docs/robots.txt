@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://alphabones.github.io/stubbs/sitemap.xml
