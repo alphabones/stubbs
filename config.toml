@@ -1,6 +1,6 @@
 baseURL = "https://falsesummit.github.io"
 languageCode = "en-us"
-title = "True Summit"
+title = "{ company_name_here }"
 theme = "dimension"
 
 defaultContentLanguage = "en"
