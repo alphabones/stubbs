@@ -4,16 +4,11 @@ weight: 20
 draft: false
 ---
 
-Outdoor lifestyle retailers we have worked with:
+#### Retailers
 
-Nike
+Outdoor lifestyle retailers we have worked with include: {{< work >}}
 
-A few of the startups we have recently created or helped:
+#### Startups
 
-Tidings
-Easy Kicks
-Measureful
-Chirpify
-Brand Genie
-Syncer
-Clyde
+A few of the startups we have recently created or helped: {{< startups >}}
+

@@ -1,9 +1,7 @@
-baseURL = "https://alphabones.github.io/stubbs"
+baseURL = "https://falsesummit.github.io"
 languageCode = "en-us"
 title = "True Summit"
 theme = "dimension"
-
-publishDir = "docs"
 
 defaultContentLanguage = "en"
 enableRobotsTXT = true
@@ -12,8 +10,8 @@ disableKinds=["RSS"]
 [params]
   description = '<!--[-->Startup innovation lab for	accelerators<!--]--><br />
                 <!--[-->within outdoor retailers<!--]--><br /><!--]-->'
-  logo = "fa-tree"
-  copyright = "False Summit"
+  logoimage = "/images/logo.svg"
+  copyright = "True Summit"
 
 [[params.social]]
   medium = "twitter"

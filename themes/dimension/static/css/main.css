@@ -1,6 +1,4 @@
-@import url(font-awesome.min.css);
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300italic,600italic,300,600");
-/*
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:300italic,600italic,300,600);/*
 	Dimension by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
@@ -46,9 +44,11 @@ body {
 /* Basic */
 @-ms-viewport {
   width: device-width; }
+
 @media screen and (max-width: 480px) {
   html, body {
     min-width: 320px; } }
+
 body {
   background: #1b1f22; }
   body.is-loading *, body.is-loading *:before, body.is-loading *:after, body.is-switching *, body.is-switching *:before, body.is-switching *:after {
@@ -151,10 +151,10 @@ h6 {
   h1 {
     font-size: 1.75rem;
     line-height: 1.4; }
-
   h2 {
     font-size: 1.25em;
     line-height: 1.5; } }
+
 sub {
   font-size: 0.8rem;
   position: relative;
@@ -301,7 +301,7 @@ select option {
     text-transform: none !important; }
   .select-wrapper:before {
     color: #ffffff;
-    content: '\f107';
+    content: '\F107';
     display: block;
     height: 2.75rem;
     line-height: calc(2.75rem + 0em);
@@ -381,7 +381,7 @@ input[type="radio"] {
     background: #ffffff !important;
     border-color: #ffffff !important;
     color: #1b1f22;
-    content: '\f00c'; }
+    content: '\F00C'; }
   input[type="checkbox"]:focus + label:before,
   input[type="radio"]:focus + label:before {
     background: rgba(255, 255, 255, 0.075);
@@ -1146,4 +1146,25 @@ button {
   body.is-loading #footer {
     opacity: 0; }
 
-/*# sourceMappingURL=main.css.map */
+.row {
+  clear: both;
+  display: flex;
+  justify-content: space-between;
+  align-items: center; }
+  .row .col {
+    text-align: center;
+    padding: 0 10px; }
+    .row .col:first-child {
+      padding-left: 0; }
+    .row .col:last-child {
+      padding-right: 0; }
+    .row .col img.logo {
+      display: block;
+      max-width: 100px; }
+
+.logo-box {
+  background: #fff;
+  padding: 10px;
+  border-radius: 3px; }
+  .logo-box + .logo-box {
+    margin-top: 33px; }

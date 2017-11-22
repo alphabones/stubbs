@@ -1,0 +1,30 @@
+.row {
+  clear: both;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  .col {
+    text-align: center;
+    padding: 0 10px;
+    &:first-child {
+      padding-left: 0;
+    }
+    &:last-child {
+      padding-right: 0;
+    }
+
+    img.logo {
+      display: block;
+      max-width: 100px;
+    }
+  }
+}
+
+.logo-box {
+  background: #fff;
+  padding: 10px;
+  border-radius: 3px;
+  + .logo-box {
+    margin-top: 33px;
+  }
+}

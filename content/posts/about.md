@@ -72,13 +72,3 @@ We’re not for you if you’re:
 
 
 When roadmapping and development is done with a startup mindset, with people that have experience in finding that perfect balance of scrappiness and solidity, with ability to scale, you’re setting your startup up for the it’s best chance at success. You need quick, forward momentum, with the ability to quickly adjust and pivot on a dime. You need to think and develop quickly, get to market quickly, learn, iterate, rinse and repeat. Agile, lean. Did I say scrappy?
-
-
-
-
-
-
-
-CONTACT
-
-Email / phone / address
