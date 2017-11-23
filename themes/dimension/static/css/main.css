@@ -1151,6 +1151,9 @@ button {
   display: flex;
   justify-content: space-between;
   align-items: center; }
+  @media all and (max-width: 490px) {
+    .row {
+      display: block; } }
   .row .col {
     text-align: center;
     padding: 0 10px; }
@@ -1158,6 +1161,11 @@ button {
       padding-left: 0; }
     .row .col:last-child {
       padding-right: 0; }
+    @media all and (max-width: 490px) {
+      .row .col {
+        padding: 0; }
+        .row .col + .col {
+          margin-top: 33px; } }
     .row .col img.logo {
       display: block;
       max-width: 100px; }
@@ -1168,3 +1176,6 @@ button {
   border-radius: 3px; }
   .logo-box + .logo-box {
     margin-top: 33px; }
+  @media all and (max-width: 490px) {
+    .logo-box img {
+      margin: 0 auto; } }

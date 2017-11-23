@@ -1,7 +1,13 @@
+$break: 490px;
+
 .row {
   clear: both;
   display: flex;
+  @include respond($break, max) {
+    display: block;
+  }
   justify-content: space-between;
+
   align-items: center;
   .col {
     text-align: center;
@@ -11,6 +17,13 @@
     }
     &:last-child {
       padding-right: 0;
+    }
+
+    @include respond($break, max) {
+      padding: 0;
+      + .col {
+        margin-top: 33px;
+      }
     }
 
     img.logo {
@@ -26,5 +39,10 @@
   border-radius: 3px;
   + .logo-box {
     margin-top: 33px;
+  }
+  img {
+    @include respond($break, max) {
+      margin: 0 auto;
+    }
   }
 }
