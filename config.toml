@@ -1,6 +1,6 @@
 baseURL = "https://falsesummit.github.io"
 languageCode = "en-us"
-title = "{ company_name_here }"
+title = "Seven Summits Lab"
 theme = "dimension"
 
 defaultContentLanguage = "en"
