@@ -6,9 +6,9 @@ draft: false
 
 #### Retailers
 
-Outdoor lifestyle retailers we have worked with include: {{< work >}}
+Our work with outdoor lifestyle retailers includes: {{< work >}}
 
 #### Startups
 
-A few of the startups we have recently created or helped: {{< startups >}}
+We recently created or helped the following startups: {{< startups >}}
 
